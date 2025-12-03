@@ -8,3 +8,7 @@
 
 <!-- Key projects -->
 ## PORTFOLIO
+
+
+<!-- Contact info -->
+## CONTACT
